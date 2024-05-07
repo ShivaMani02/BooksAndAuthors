@@ -1,24 +1,11 @@
-# README
+# Books & Authors
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo contains Books and author backend system which has following 2 Roles:
 
-Things you may want to cover:
+* Books
+* Authors
 
-* Ruby version
+## To Run Project:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hit command - 
+`Rails s` in terminal
